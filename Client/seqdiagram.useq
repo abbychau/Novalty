@@ -1,0 +1,35 @@
+<sequence-diagram version="1.0.1" icons="true">  
+  <object id="1" language="java" name="com.abby.app.Downloaded" project="MyApp" 
+    file="/MyApp/src/com/abby/app/Downloaded.java" binary="false" label="downloaded" type="class" autoSize="true">    
+    <position x="447" y="0" width="-1" height="-1"/>  
+  </object>  
+  <object id="2" language="java" name="com.abby.app.myapp" project="MyApp" file="/MyApp/src/com/abby/app/myapp.java" 
+    binary="false" label="myapp" type="class" autoSize="true">    
+    <position x="496" y="0" width="-1" height="-1"/>  
+  </object>  
+  <object id="3" language="java" name="com.abby.app.myapp.novelsButtonListener" project="MyApp" 
+    file="/MyApp/src/com/abby/app/myapp.java" binary="false" label="novelsButtonListener" type="class" autoSize="true">    
+    <position x="496" y="0" width="-1" height="-1"/>  
+  </object>  
+  <object id="4" language="java" name="com.abby.app.myapp.recentButtonListener" project="MyApp" 
+    file="/MyApp/src/com/abby/app/myapp.java" binary="false" label="recentButtonListener" type="class" autoSize="true">    
+    <position x="496" y="0" width="-1" height="-1"/>  
+  </object>  
+  <object id="5" language="java" name="com.abby.app.myapp.downloadedButtonListener" project="MyApp" 
+    file="/MyApp/src/com/abby/app/myapp.java" binary="false" label="downloadedButtonListener" type="class" 
+    autoSize="true">    
+    <position x="496" y="0" width="-1" height="-1"/>  
+  </object>  
+  <object id="6" language="java" name="com.abby.app.Novel" project="MyApp" file="/MyApp/src/com/abby/app/Novel.java" 
+    binary="false" label="novel" type="class" autoSize="true">    
+    <position x="921" y="0" width="-1" height="-1"/>  
+  </object>  
+  <object id="7" language="java" name="com.abby.app.Reading" project="MyApp" file="/MyApp/src/com/abby/app/Reading.java" 
+    binary="false" label="reading" type="class" autoSize="true">    
+    <position x="999" y="0" width="-1" height="-1"/>  
+  </object>  
+  <object id="8" language="java" name="com.abby.app.Recent" project="MyApp" file="/MyApp/src/com/abby/app/Recent.java" 
+    binary="false" label="recent" type="class" autoSize="true">    
+    <position x="994" y="0" width="-1" height="-1"/>  
+  </object>
+</sequence-diagram>

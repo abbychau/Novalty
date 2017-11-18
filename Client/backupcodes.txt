@@ -1,0 +1,36 @@
+        
+        final String mimeType = "text/html";
+        final String encoding = "utf-8";
+		
+		File sdcard = Environment.getExternalStorageDirectory();
+
+		//Get the text file
+		File file = new File("/sdcard/download/possible.txt");
+
+		//Read text from file
+		StringBuilder text = new StringBuilder();
+
+		try {
+		    BufferedReader br = new BufferedReader(new FileReader(file));
+		    String line2;
+
+		    while ((line2 = br.readLine()) != null) {
+		        text.append(line2);
+		        text.append('\n');
+		    }
+		}
+		catch (IOException e) {
+		    //You'll need to add proper error handling here
+		}
+		
+		
+		
+		
+		        try {
+			FileWriter f = new FileWriter("/sdcard/download/possible.txt");
+            f.write(html);
+            f.flush();
+            f.close();
+		} catch (IOException e) {
+			e.printStackTrace();
+		}

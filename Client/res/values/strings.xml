@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, myapp!</string>
+    <string name="app_name">Novelty</string>
+    <string name="downloaded">Downloaded</string>
+    <string name="lastviewed">Last Viewed</string>
+    <string name="settings">Downloaded</string>
+    <string name="about">About</string>
+    <string name="novel">Novel</string>
+</resources>
