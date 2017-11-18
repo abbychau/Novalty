@@ -1,5 +1,6 @@
 # Novalty
 A minimalism android noval reader.
+
 ![picture1](https://user-images.githubusercontent.com/350283/32980606-7b51142e-cca4-11e7-8e08-ca7a73aaf001.png)
 
 ![picture2](https://user-images.githubusercontent.com/350283/32980616-a2beb458-cca4-11e7-9c12-ce472a3ae96f.png)
@@ -21,3 +22,5 @@ A minimalism android noval reader.
 - Font size and color can be customized to suit different user’s needs.
 - Users should be able to delete some of the downloaded novels.
 - Users can be able to upload and share novels.
+
+This is a project developed in 2010. I recommend to keep it archived.
